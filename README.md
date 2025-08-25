@@ -48,13 +48,24 @@
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是张同学,目前就读于青岛大学计算机技术研一。热爱编程、摄影、滑板。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;嗨，你好，我是张同学,目前就读于青岛大学计算机技术研一。喜欢编程、摄影、滑板。</p>
+<p>&emsp;&emsp;热爱计算机，希望未来能成为一名优秀的programmer。</p>
 </td></tr>
 
 <tr><td>
 
-### 🏢 Work Experience
+### 🏢 Work & Study Experience
+<img align="right" width="88" src="./images/qdu.png" />
+
+- [青岛大学](https://www.qdu.edu.cn/) &emsp; 📌 2024-09 —— 至今
+
+  - 计算机技术专业
+
+<img align="right" width="88" src="./images/bbc.png" />
+
+- [蚌埠学院](https://www.bbc.edu.cn/) &emsp; 📌 2019-09 —— 2023-06
+
+  - 计算机科学与技术专业
 
 
 <img align="right" width="88" src="./images/if.png" />
@@ -64,6 +75,7 @@
   - 工作岗位：软件开发工程师
   - 工作内容：参与讯飞词曲家后台系统、酷音铃音订购后台系统的开发与维护
 </td></tr>
+
 </table>
 
 </div>
