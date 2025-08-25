@@ -47,8 +47,8 @@
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是张同学,目前就读于青岛大学计算机技术研一。喜欢编程、摄影、滑板。</p>
-<p>&emsp;&emsp;热爱计算机，希望未来能成为一名优秀的programmer。</p>
+<p>&emsp;&emsp;嗨，你好，我是张同学,目前就读于青岛大学计算机技术研一。喜欢编程、吉他、摄影、滑板。</p>
+<p>&emsp;&emsp;热爱计算机，希望未来能成为一名优秀的Programmer。</p>
 </td></tr>
 
 <tr><td>
