@@ -41,7 +41,7 @@
 #  🙋 Hello
 
 <table>
-  
+ <div align="center">
 <tr><td>
 
 ### 🤺 About Me
@@ -75,7 +75,7 @@
   - 工作岗位：软件开发工程师
   - 工作内容：参与讯飞词曲家后台系统、酷音铃音订购后台系统的开发与维护
 </td></tr>
-
+</div> 
 </table>
 
 
