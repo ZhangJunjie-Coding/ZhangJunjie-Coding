@@ -55,20 +55,20 @@
 <tr><td>
 
 ### 🏢 Work & Study Experience
-<img align="right" width="88" height="88" src="./images/qdu.png"/>
+<img align="right" width="60" height="60" src="./images/qdu.png"/>
 
 - [青岛大学](https://www.qdu.edu.cn/) &emsp; 📌 2024-09 —— 至今
 
   - 计算机技术专业
 
-<img align="right" width="88" height="88" src="./images/bbc.png"/>
+<img align="right" width="60" height="60" src="./images/bbc.png"/>
 
 - [蚌埠学院](https://www.bbc.edu.cn/) &emsp; 📌 2019-09 —— 2023-06
 
   - 计算机科学与技术专业
 
 
-<img align="right" width="88" height="88" src="./images/if.png" />
+<img align="right" width="60" height="60" src="./images/if.png" />
 
 - [科大讯飞股份有限公司](https://www.iflytek.com/) &emsp; 📌 2022-06 —— 2022-10
 
